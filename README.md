@@ -1,5 +1,5 @@
 # reddit-comment-delete
-Shitty little program that deletes comments on reddit - have to provide username and password, pretty slow but it worked for me
+Little program that deletes comments on reddit - have to provide username and password but it's not used for anything but login, pretty slow but it worked for my one time use
 
 Follow selenium installation instructions here - https://selenium-python.readthedocs.io/installation.html
 
